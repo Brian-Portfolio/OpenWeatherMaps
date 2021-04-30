@@ -1,0 +1,53 @@
+{
+  "Weather Forecast": [
+    {
+      "Current Time : ": "04/27/21 13:00",
+      "Temperature : ": 81.46,
+      "Weather : ": "Clouds",
+      "Humidity : ": 34,
+      "Wind Speed : ": 11.34
+    },
+    {
+      "Current Time : ": "04/28/21 13:00",
+      "Temperature : ": 81.86,
+      "Weather : ": "Rain",
+      "Humidity : ": 48,
+      "Wind Speed : ": 10.38
+    },
+    {
+      "Current Time : ": "04/29/21 13:00",
+      "Temperature : ": 76.66,
+      "Weather : ": "Rain",
+      "Humidity : ": 63,
+      "Wind Speed : ": 11.36
+    },
+    {
+      "Current Time : ": "04/30/21 13:00",
+      "Temperature : ": 64.96,
+      "Weather : ": "Rain",
+      "Humidity : ": 45,
+      "Wind Speed : ": 18.52
+    },
+    {
+      "Current Time : ": "05/01/21 13:00",
+      "Temperature : ": 58.91,
+      "Weather : ": "Clouds",
+      "Humidity : ": 30,
+      "Wind Speed : ": 11.79
+    },
+    {
+      "Current Time : ": "05/02/21 13:00",
+      "Temperature : ": 75.96,
+      "Weather : ": "Clouds",
+      "Humidity : ": 40,
+      "Wind Speed : ": 7.65
+    },
+    {
+      "Current Time : ": "05/03/21 13:00",
+      "Temperature : ": 62.24,
+      "Weather : ": "Rain",
+      "Humidity : ": 98,
+      "Wind Speed : ": 5.48
+    }
+  ]
+}

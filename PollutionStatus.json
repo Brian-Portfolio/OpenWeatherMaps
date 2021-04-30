@@ -1,0 +1,16 @@
+{
+  "Current AirPollution Status": [
+    {
+      "Current Time : ": "04/27/21 22:00",
+      "Air Quality Index : ": "Fair",
+      "Concentration of Carbon Monoxide : ": "213.62micrograms/m^3",
+      "Concentration of Nitrogen Monoxide : ": "0micrograms/m^3",
+      "Concentration of Nitrogen Dioxide : ": "2.38micrograms/m^3",
+      "Concentration of Ozone : ": "83.69micrograms/m^3",
+      "Concentration of Sulphur Dioxide : ": "0.33micrograms/m^3",
+      "Concentration of Fine particles matter : ": "9.18micrograms/m^3",
+      "Concentration of Coarse particulate matter : ": "12.37micrograms/m^3",
+      "Concentration of Ammonia : ": "2.09micrograms/m^3"
+    }
+  ]
+}
