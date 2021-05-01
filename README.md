@@ -9,7 +9,10 @@ A user friendly program for anyone that wants to obtain current or past weather 
 
 
 # Requirements
+
 **Dependencies**
   
-  -Create an account through 
+  -Create an account through https://openweathermap.org/ and obtain an API Key
+  
   -
+  
